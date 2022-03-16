@@ -1,0 +1,13 @@
+/*
+** EPITECH PROJECT, 2020
+** my.h
+** File description:
+** my_h
+*/
+
+#ifndef MY_H
+#define MY_H
+
+void analyse_events(sfRenderWindow *window, sfEvent event);
+void manage_mouse_click(sfMouseButtonEvent event);
+#endif /* MY_H */
